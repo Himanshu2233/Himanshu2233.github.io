@@ -100,7 +100,7 @@ h4{
 .about{
 	width: 100%;
 	padding: 100px 0px;
-	background-image: url("middle1.jpg");
+	background-image: url(middle1.jpg);
 }
 .about img{
 	height: auto;
