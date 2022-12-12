@@ -10,7 +10,7 @@ html {
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: url(./img/2.jpg);
+    background-image: url(./2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -100,7 +100,7 @@ h4{
 .about{
 	width: 100%;
 	padding: 100px 0px;
-	background-image: url(./img/middle1.jpg);
+	background-image: url(./middle1.jpg);
 }
 .about img{
 	height: auto;
@@ -223,7 +223,7 @@ footer{
 	position: relative;
 	width: 100%;
 	height: 400px;
-	background-image:url(img/footer2.jpeg);
+	background-image:url(./footer2.jpeg);
 	display: flex;
 	flex-direction: column;
 	align-items: center;
